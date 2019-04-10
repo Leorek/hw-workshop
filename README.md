@@ -1,3 +1,3 @@
-#HackersWeek React Workshop
+# HackersWeek React Workshop
 
 This project is meant to show how to begin with React, and how to use hooks.
